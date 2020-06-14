@@ -41,4 +41,5 @@ print("there are more cases then ever now ")
 print("Now In the world there have been over 7.41 million cases")
 print("There have also been more than 418k deaths")
 
-#During a pandemic, everyone wants to be informed about what's going on. This code will allow people to see some statistics that will help them be more aware.
+#During a pandemic, everyone wants to be informed about what's going on. This code will allow people to see some statistics 
+#that will help them be more aware.
